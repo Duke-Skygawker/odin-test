@@ -1,0 +1,3 @@
+Hello world, and hello Odin!
+Quite excited to learn Linux workflow at this point!
+Let's go!
